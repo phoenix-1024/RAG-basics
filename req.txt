@@ -1,0 +1,4 @@
+llama-index 
+google-generativeai
+sentence-transformers
+python-dotenv
